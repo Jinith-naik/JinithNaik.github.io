@@ -9,7 +9,7 @@
   </tr>
 </table>
 
-Welcome to my **hacker-themed portfolio**! I'm Jinith Naik, an Information Technology undergraduate with a focus on data science, machine learning, and artificial intelligence. This portfolio showcases my academic journey, projects, experience, and technical skills.
+I'm Jinith Naik, an Information Technology undergraduate with a focus on data science, machine learning, and artificial intelligence. This portfolio showcases my academic journey, projects, experience, and technical skills.
 
 ---
 
