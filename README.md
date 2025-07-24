@@ -1,4 +1,4 @@
-# JinithNaik.github.io
+# Jinith Naik Portfolio
 # Jinith Naik – Data Science, AI, & Analytics Portfolio
 
 I'm Jinith Naik, an Information Technology undergraduate with a focus on data science, machine learning, and artificial intelligence. This portfolio showcases my academic journey, projects, experience, and technical skills.
