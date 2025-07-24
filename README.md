@@ -1,8 +1,13 @@
-<p align="center">
-  <img src="Images/profilephoto.JPG" alt="Jinith Naik's profile photo" width="150" style="border-radius: 50%;" />
-</p>
-
-# Jinith Naik – Data Science, AI, & Analytics Portfolio
+<table>
+  <tr>
+    <td>
+      <img src="Images/profilephoto.JPG" alt="Jinith Naik's profile photo" width="110"/>
+    </td>
+    <td>
+      <h1>Jinith Naik – Data Science, AI, & Analytics Portfolio</h1>
+    </td>
+  </tr>
+</table>
 
 Welcome to my **hacker-themed portfolio**! I'm Jinith Naik, an Information Technology undergraduate with a focus on data science, machine learning, and artificial intelligence. This portfolio showcases my academic journey, projects, experience, and technical skills.
 
