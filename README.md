@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_IMAGE_LINK_HERE" alt="Jinith Naik's profile photo" width="150" style="border-radius: 50%;" />
+  <img src="Images/profilephoto.JPG" alt="Jinith Naik's profile photo" width="150" style="border-radius: 50%;" />
 </p>
 
 # Jinith Naik – Data Science, AI, & Analytics Portfolio
